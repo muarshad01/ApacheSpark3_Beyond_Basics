@@ -2,6 +2,8 @@
 
 ***
 
+## Course Content
+
 * [Section 01 - Before you being](https://github.com/muarshad01/ApacheSpark3_Beyond_Basics/blob/main/section_01.md)
 * [Section 02 - Spark Architecture](https://github.com/muarshad01/ApacheSpark3_Beyond_Basics/blob/main/section_02.md)
 * [Section 03 - Performance and Applied Understanding](https://github.com/muarshad01/ApacheSpark3_Beyond_Basics/blob/main/section_03.md)
